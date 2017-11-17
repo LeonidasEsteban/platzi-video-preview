@@ -4,7 +4,7 @@ import { createPortal } from 'react-dom';
 import ModalContainer from './widgets/containers/modal';
 import Modal from './widgets/components/modal';
 import VideoPlayer from './player/containers/video-player';
-import logo from './images/logo.png';
+import logo from '../images/logo.png';
 
 import Categories from './categories/ui/categories';
 

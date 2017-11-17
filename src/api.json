@@ -92,7 +92,7 @@
         {
           "title": "Despacito",
           "author": "Luis Fonsi",
-          "cover": "./src/images/covers/despacito.jpg",
+          "cover": "./images/covers/despacito.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 1
         },
