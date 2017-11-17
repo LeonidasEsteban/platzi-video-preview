@@ -1,7 +1,31 @@
 .VideoItem {
-  width: 160px;
-  height: 160px;
-  background-size: cover;
   cursor: pointer;
   margin-right: 15px;
+  display: inline-block;
+  width: 245px;
+  vertical-align: top;
+}
+.VideoItem:hover .VideoItem-cover {
+  box-shadow: 0 0 10px rgba(0,0,0,.3);
+}
+
+.VideoItem-cover {
+  transition: .3s;
+  box-shadow: 0 0 5px rgba(0,0,0,.3);
+  height: 160px;
+}
+
+.VideoItem-image {
+  object-fit: cover;
+}
+
+.VideoItem-title {
+  margin: 5px 0 0 0;
+  color: #44546b;
+  white-space: normal;
+}
+
+.VideoItem-author {
+  font-size: 12px;
+  margin: 5px 0 0 0;
 }

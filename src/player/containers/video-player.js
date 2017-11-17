@@ -7,6 +7,7 @@ import ProgressBar from '../components/progress-bar';
 import Spinner from '../components/spinner';
 import Volume from '../components/volume';
 import FullScreen from '../components/full-screen';
+import Title from '../components/title';
 
 class VideoPlayer extends Component {
   state = {
@@ -34,7 +35,6 @@ class VideoPlayer extends Component {
     })
   }
   handleProgressChange = (event) => {
-
     this.video.currentTime = event.target.value
   }
   handleSeeking = event => {
@@ -66,9 +66,17 @@ class VideoPlayer extends Component {
   setRef = (element) => {
     this.player = element;
   }
+  componentDidMount() {
+    this.setState({
+      pause: (!this.props.autoplay)
+    })
+  }
   render() {
     return (
       <div className="VideoPlayer" ref={this.setRef}>
+        <Title
+          title={this.props.title}
+        />
         <div className="VideoPlayer-controls">
           <PlayPause
             pause={this.state.pause}
@@ -95,12 +103,14 @@ class VideoPlayer extends Component {
           active={this.state.loading}
         />
         <Video
+          autoplay={this.props.autoplay}
           volume={this.state.volume}
           pause={this.state.pause}
           handleLoadedMetadata={this.handleLoadedMetadata}
           handleTimeUpdate={this.handleTimeUpdate}
           handleSeeking={this.handleSeeking}
           handleSeeked={this.handleSeeked}
+          src={this.props.src}
         />
       </div>
     )

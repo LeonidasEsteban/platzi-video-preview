@@ -1,13 +1,17 @@
 import React from 'react';
-
-const modalContainer = document.getElementById('modal-container');
-
+import './modal.css';
 
 function Modal(props) {
+  console.log(props.children)
   return (
     <div className="Modal">
-      Hola mundo!
-      <button onClick={props.handleModal}>cerrar</button>
+      {/*Hola mundo!*/}
+
+      {props.children}
+      <button
+        onClick={props.handleModal}
+        className="Modal-close"
+      />
     </div>
   )
 }

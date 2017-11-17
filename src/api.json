@@ -1,0 +1,131 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "description": "Lo mejor de la semana",
+      "title": "Destacados",
+      "playlist": [
+        {
+          "title": "¿Qué es responsive Design?",
+          "author": "LeonidasEsteban",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Cómo optimzar la carga de un website",
+          "author": "LeonidasEsteban",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
+          "id": 2
+        },
+        {
+          "title": "Qué es Bitcoin",
+          "author": "Yograterol",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        },
+        {
+          "title": "Que pasó con HTML5",
+          "author": "Freddier",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "Lo mejor de Mejorando.la",
+          "author": "Cvander",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "description": "Lo mejor para concentrarte",
+      "title": "Para programar",
+      "playlist": [
+        {
+          "title": "One more time",
+          "author": "Daft Punk",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Música para meditar",
+          "author": "Buda",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 2
+        },
+        {
+          "title": "Gorrillaz",
+          "author": "LeonidasEsteban",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        },
+        {
+          "title": "Gorrillaz",
+          "author": "LeonidasEsteban",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "Gorrillaz",
+          "author": "LeonidasEsteban",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "description": "Si no te queda de otra",
+      "title": "Regueton",
+      "playlist": [
+        {
+          "title": "Despacito",
+          "author": "Luis Fonsi",
+          "cover": "./src/images/covers/despacito.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 1
+        },
+        {
+          "title": "Mi Gente",
+          "author": "J Bavil",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 2
+        },
+        {
+          "title": "Perro Fiel",
+          "author": "Shakira",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 3
+        },
+        {
+          "title": "Felices los 4",
+          "author": "Maluma",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 4
+        },
+        {
+          "title": "Me Rehúso",
+          "author": "Danny Ocean",
+          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        }
+      ]
+    }
+  ]
+}
+
