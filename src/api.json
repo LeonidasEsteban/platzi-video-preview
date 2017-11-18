@@ -8,35 +8,35 @@
         {
           "title": "¿Qué es responsive Design?",
           "author": "LeonidasEsteban",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "cover": "./images/covers/responsive.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 1
         },
         {
           "title": "Cómo optimzar la carga de un website",
           "author": "LeonidasEsteban",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "cover": "./images/covers/optimizar.jpg",
           "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
           "id": 2
         },
         {
           "title": "Qué es Bitcoin",
           "author": "Yograterol",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "cover": "./images/covers/bitcoin.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 3
         },
         {
           "title": "Que pasó con HTML5",
           "author": "Freddier",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "cover": "./images/covers/html5.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 4
         },
         {
           "title": "Lo mejor de Mejorando.la",
           "author": "Cvander",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "cover": "./images/covers/mejorandola.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 5
         }
@@ -50,37 +50,37 @@
         {
           "title": "One more time",
           "author": "Daft Punk",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "cover": "./images/covers/one-more-time.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 1
         },
         {
-          "title": "Música para meditar",
-          "author": "Buda",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "title": "Midnight City",
+          "author": "M83",
+          "cover": "./images/covers/midnight.jpg",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": 5
+        },
+        {
+          "title": "Solar Sailer",
+          "author": "Daft Punk",
+          "cover": "./images/covers/solar-sailer.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 2
         },
         {
-          "title": "Gorrillaz",
-          "author": "LeonidasEsteban",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
-          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
-          "id": 3
-        },
-        {
-          "title": "Gorrillaz",
-          "author": "LeonidasEsteban",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "title": "The social network",
+          "author": "The social network",
+          "cover": "./images/covers/social.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 4
         },
         {
-          "title": "Gorrillaz",
-          "author": "LeonidasEsteban",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "title": "No vaya a ser",
+          "author": "Pablo Alboran",
+          "cover": "./images/covers/no-vaya-a-ser.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
-          "id": 5
+          "id": 3
         }
       ]
     },
@@ -99,28 +99,28 @@
         {
           "title": "Echame la culpa",
           "author": "Luis fonsi",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "cover": "./images/covers/echame-la-culpa.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 3
         },
         {
           "title": "Mi Gente",
           "author": "J Bavil",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "cover": "./images/covers/mi-gente.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 2
         },
         {
           "title": "Felices los 4",
           "author": "Maluma",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "cover": "./images/covers/felices.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 4
         },
         {
           "title": "Me Rehúso",
           "author": "Danny Ocean",
-          "cover": "https://media.npr.org/assets/music/programs/worldcafe/2010/06/gorillaz-e0433721e594edac262cae60a489d0162a5ff3f6-s900-c85.jpg",
+          "cover": "./images/covers/rehuso.jpg",
           "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 5
         }
