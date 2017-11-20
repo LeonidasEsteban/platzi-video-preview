@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Video from './video';
+import Video from '../components/video';
 import PlayPause from '../components/play-pause';
 import Timer from '../components/timer'
 import ProgressBar from '../components/progress-bar';

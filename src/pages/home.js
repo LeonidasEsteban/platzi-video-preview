@@ -45,8 +45,6 @@ class Home extends Component {
             categories={this.props.data.categories}
             openModal={this.openModal}
           />
-          {/*<VideoPlayer />*/}
-
           {
             this.state.modalVisible &&
             <ModalContainer>
