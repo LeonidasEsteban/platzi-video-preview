@@ -1,13 +1,14 @@
 import React, { Component } from 'react';
 import Video from './video';
 import PlayPause from '../components/play-pause';
-import './video-player.css';
 import Timer from '../components/timer'
 import ProgressBar from '../components/progress-bar';
 import Spinner from '../components/spinner';
 import Volume from '../components/volume';
 import FullScreen from '../components/full-screen';
 import Title from '../components/title';
+import Controls from '../components/video-player-controls';
+import Layout from '../components/video-player-layout';
 
 class VideoPlayer extends Component {
   state = {
@@ -73,11 +74,11 @@ class VideoPlayer extends Component {
   }
   render() {
     return (
-      <div className="VideoPlayer" ref={this.setRef}>
+      <Layout setRef={this.setRef}>
         <Title
           title={this.props.title}
         />
-        <div className="VideoPlayer-controls">
+        <Controls>
           <PlayPause
             pause={this.state.pause}
             handleClick={this.togglePlay}
@@ -98,7 +99,7 @@ class VideoPlayer extends Component {
           <FullScreen
             handleFullScreenClick={this.handleFullScreenClick}
           />
-        </div>
+        </Controls>
         <Spinner
           active={this.state.loading}
         />
@@ -112,7 +113,7 @@ class VideoPlayer extends Component {
           handleSeeked={this.handleSeeked}
           src={this.props.src}
         />
-      </div>
+      </Layout>
     )
   }
 }

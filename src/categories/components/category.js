@@ -4,7 +4,6 @@ import './category.css';
 import HandleError from '../../error/containers/handle-error'
 
 function Category(props) {
-  console.log(props)
   return (
     <div className="Category">
       <p className="Category-description">{props.description}</p>

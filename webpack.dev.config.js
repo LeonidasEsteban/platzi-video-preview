@@ -20,6 +20,7 @@ module.exports = {
   //   // compress: true,
   //   port: 9000,
   // },
+  devtool: 'inline-cheap-module-source-map',
   module: {
     rules: [
       {

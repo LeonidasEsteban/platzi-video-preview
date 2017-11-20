@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import VideoItem from '../components/video-item';
+import Media from '../components/media';
 import './playlist.css';
 
 function Playlist(props) {
@@ -7,7 +7,7 @@ function Playlist(props) {
     <div className="Playlist">
       {
         props.playlist.map((item) => (
-          <VideoItem
+          <Media
             openModal={props.openModal}
             key={item.id}
             {...item}
