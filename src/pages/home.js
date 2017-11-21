@@ -41,6 +41,7 @@ class Home extends Component {
 
         <HomeLayout>
           <Related />
+
           <Categories
             categories={this.props.data.categories}
             openModal={this.openModal}
